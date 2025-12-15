@@ -240,21 +240,3 @@ void triParTas(int T[], int n) {
 * Les algorithmes efficaces comme **TriBase**, **QuickSort** et **HeapSort** sont beaucoup plus performants, même pour de grandes tailles.
 * Le **TriBase** est particulièrement adapté aux entiers avec un nombre limité de chiffres.
 
----
-
-## **4. Conclusion**
-
-Ce TP permet de constater que le choix de l’algorithme de tri a un impact majeur sur les performances. Les tris simples sont faciles à implémenter et utiles pour des petites tailles de données ou à des fins pédagogiques, mais ne sont pas adaptés aux grands tableaux. Les tris avancés comme QuickSort, HeapSort ou TriBase permettent de traiter efficacement de grandes quantités de données.
-
-**Points clés :**
-
-* La complexité théorique se vérifie expérimentalement.
-* Optimiser un tri simple peut améliorer légèrement les performances.
-* Le tri par base est efficace pour les entiers et peut surpasser QuickSort pour certaines tailles et types de données.
-* La visualisation graphique des temps de calcul est un outil essentiel pour comparer les algorithmes.
-
----
-
-Si tu veux, je peux te **préparer directement un fichier `README.md` prêt à mettre dans ton repo**, avec sections, codes, tableaux et graphiques simulés pour que tu n’aies qu’à compléter les mesures exactes.
-
-Veux‑tu que je fasse ça ?
